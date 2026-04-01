@@ -7,7 +7,7 @@
 /*
 * Two Pointers Approach
 * Time Complexity: O(n log n)
-* Space Com            
+* Space Complexity: O(1)
 */
 
 public int[] twoSum(int[] nums, int target) {
